@@ -1,0 +1,746 @@
+2024-07-18 10:26:51 - Starting SecurityConfigTest using Java 18.0.2.1 with PID 9632 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 10:26:51 - The following 1 profile is active: "no_security"
+2024-07-18 10:26:54 - 
+
+Using generated security password: 84bfb4b3-b246-4f49-9a7b-d5306b17df23
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 10:26:54 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 10:26:56 - Initializing Spring TestDispatcherServlet ''
+2024-07-18 10:26:56 - Initializing Servlet ''
+2024-07-18 10:26:56 - Completed initialization in 2 ms
+2024-07-18 10:26:56 - Started SecurityConfigTest in 6.554 seconds (process running for 9.4)
+2024-07-18 10:30:43 - Starting SecurityConfigTest using Java 18.0.2.1 with PID 9040 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 10:30:43 - The following 1 profile is active: "no_security"
+2024-07-18 10:30:48 - 
+
+Using generated security password: 2af79ddf-b6ef-4523-8e76-2cd2074a6b81
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 10:30:48 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 10:30:50 - Initializing Spring TestDispatcherServlet ''
+2024-07-18 10:30:50 - Initializing Servlet ''
+2024-07-18 10:30:50 - Completed initialization in 3 ms
+2024-07-18 10:30:50 - Started SecurityConfigTest in 7.912 seconds (process running for 10.859)
+2024-07-18 10:31:13 - Starting SecurityConfigTest using Java 18.0.2.1 with PID 7416 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 10:31:13 - The following 1 profile is active: "no_security"
+2024-07-18 10:31:17 - 
+
+Using generated security password: acc77f77-d8c6-421e-a90b-ec26decfa335
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 10:31:18 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 10:31:19 - Initializing Spring TestDispatcherServlet ''
+2024-07-18 10:31:19 - Initializing Servlet ''
+2024-07-18 10:31:19 - Completed initialization in 3 ms
+2024-07-18 10:31:19 - Started SecurityConfigTest in 6.909 seconds (process running for 9.946)
+2024-07-18 10:33:51 - Starting SecurityConfigTest using Java 18.0.2.1 with PID 13180 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 10:33:51 - The following 1 profile is active: "no_security"
+2024-07-18 10:33:55 - 
+
+Using generated security password: 4ca8e24c-2ce8-46c1-80bd-5ed53f479f0b
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 10:33:55 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 10:33:56 - Initializing Spring TestDispatcherServlet ''
+2024-07-18 10:33:56 - Initializing Servlet ''
+2024-07-18 10:33:56 - Completed initialization in 4 ms
+2024-07-18 10:33:56 - Started SecurityConfigTest in 5.91 seconds (process running for 8.307)
+2024-07-18 10:34:14 - Starting SecurityConfigTest using Java 18.0.2.1 with PID 10320 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 10:34:14 - The following 1 profile is active: "no_security"
+2024-07-18 10:34:18 - 
+
+Using generated security password: 212c15cc-990c-402f-ac49-be225b49ec45
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 10:34:18 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 10:34:20 - Initializing Spring TestDispatcherServlet ''
+2024-07-18 10:34:20 - Initializing Servlet ''
+2024-07-18 10:34:20 - Completed initialization in 1 ms
+2024-07-18 10:34:20 - Started SecurityConfigTest in 6.664 seconds (process running for 9.538)
+2024-07-18 10:36:43 - Starting SecurityConfigTest using Java 18.0.2.1 with PID 7864 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 10:36:43 - The following 1 profile is active: "no_security"
+2024-07-18 10:36:46 - 
+
+Using generated security password: 68f87a76-0939-4934-8c10-87bd4d65be8f
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 10:36:46 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 10:36:48 - Initializing Spring TestDispatcherServlet ''
+2024-07-18 10:36:48 - Initializing Servlet ''
+2024-07-18 10:36:48 - Completed initialization in 2 ms
+2024-07-18 10:36:48 - Started SecurityConfigTest in 6.046 seconds (process running for 9.039)
+2024-07-18 10:38:22 - Starting SecurityConfigTest using Java 18.0.2.1 with PID 14308 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 10:38:22 - The following 1 profile is active: "no_security"
+2024-07-18 10:38:25 - 
+
+Using generated security password: d82a29cd-5a0a-445b-b5b6-93e88f524c53
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 10:38:25 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 10:38:26 - Initializing Spring TestDispatcherServlet ''
+2024-07-18 10:38:26 - Initializing Servlet ''
+2024-07-18 10:38:26 - Completed initialization in 3 ms
+2024-07-18 10:38:27 - Started SecurityConfigTest in 5.881 seconds (process running for 8.396)
+2024-07-18 10:39:42 - Starting SecurityConfigTest using Java 18.0.2.1 with PID 10672 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 10:39:42 - The following 1 profile is active: "no_security"
+2024-07-18 10:39:46 - 
+
+Using generated security password: 9cbbf984-3566-4da4-a0ac-ab1d41068767
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 10:39:46 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 10:39:47 - Initializing Spring TestDispatcherServlet ''
+2024-07-18 10:39:47 - Initializing Servlet ''
+2024-07-18 10:39:47 - Completed initialization in 2 ms
+2024-07-18 10:39:47 - Started SecurityConfigTest in 6.624 seconds (process running for 9.285)
+2024-07-18 10:41:18 - Starting SecurityConfigTest using Java 18.0.2.1 with PID 11672 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 10:41:19 - The following 1 profile is active: "no_security"
+2024-07-18 10:41:22 - 
+
+Using generated security password: f7210454-50d2-48b7-beba-40c4e3362e2d
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 10:41:22 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 10:41:23 - Initializing Spring TestDispatcherServlet ''
+2024-07-18 10:41:23 - Initializing Servlet ''
+2024-07-18 10:41:23 - Completed initialization in 2 ms
+2024-07-18 10:41:23 - Started SecurityConfigTest in 6.046 seconds (process running for 8.669)
+2024-07-18 10:44:26 - Starting SecurityConfigTest using Java 18.0.2.1 with PID 12932 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 10:44:26 - The following 1 profile is active: "no_security"
+2024-07-18 10:44:28 - 
+
+Using generated security password: 388c0181-c58a-4f6f-a25e-74ec40976117
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 10:44:28 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 10:44:30 - Initializing Spring TestDispatcherServlet ''
+2024-07-18 10:44:30 - Initializing Servlet ''
+2024-07-18 10:44:30 - Completed initialization in 3 ms
+2024-07-18 10:44:30 - Started SecurityConfigTest in 6.069 seconds (process running for 18.357)
+2024-07-18 10:51:00 - Starting SecurityConfigTest using Java 18.0.2.1 with PID 12704 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 10:51:00 - The following 1 profile is active: "no_security"
+2024-07-18 10:51:02 - 
+
+Using generated security password: 9b50d4b5-1628-4a18-8692-f85a1444e1ad
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 10:51:02 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 10:51:05 - Initializing Spring TestDispatcherServlet ''
+2024-07-18 10:51:05 - Initializing Servlet ''
+2024-07-18 10:51:05 - Completed initialization in 12 ms
+2024-07-18 10:51:05 - Started SecurityConfigTest in 7.503 seconds (process running for 21.242)
+2024-07-18 10:52:08 - Starting SecurityConfigTest using Java 18.0.2.1 with PID 13048 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 10:52:08 - The following 1 profile is active: "no_security"
+2024-07-18 10:52:10 - 
+
+Using generated security password: e991bc61-e92a-41e3-b54f-e7116d53f0bd
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 10:52:10 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 10:52:12 - Initializing Spring TestDispatcherServlet ''
+2024-07-18 10:52:12 - Initializing Servlet ''
+2024-07-18 10:52:12 - Completed initialization in 22 ms
+2024-07-18 10:52:12 - Started SecurityConfigTest in 4.472 seconds (process running for 11.005)
+2024-07-18 11:01:09 - Starting SecurityConfigTest using Java 18.0.2.1 with PID 11304 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 11:01:09 - The following 1 profile is active: "no_security"
+2024-07-18 11:01:11 - 
+
+Using generated security password: f8b4a5e1-1e72-433f-afdb-1fc6302d3826
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 11:01:11 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 11:01:12 - Initializing Spring TestDispatcherServlet ''
+2024-07-18 11:01:12 - Initializing Servlet ''
+2024-07-18 11:01:12 - Completed initialization in 2 ms
+2024-07-18 11:01:12 - Started SecurityConfigTest in 4.394 seconds (process running for 11.815)
+2024-07-18 11:35:43 - Starting SecurityConfigTest using Java 18.0.2.1 with PID 4400 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 11:35:43 - The following 1 profile is active: "no_security"
+2024-07-18 11:35:47 - 
+
+Using generated security password: cb2ad83d-5410-45b5-bcc2-3c83d55dd19a
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 11:35:47 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 11:35:48 - Initializing Spring TestDispatcherServlet ''
+2024-07-18 11:35:48 - Initializing Servlet ''
+2024-07-18 11:35:48 - Completed initialization in 2 ms
+2024-07-18 11:35:48 - Started SecurityConfigTest in 6.776 seconds (process running for 10.358)
+2024-07-18 11:36:47 - Starting SecurityConfigTest using Java 18.0.2.1 with PID 6052 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 11:36:47 - The following 1 profile is active: "no_security"
+2024-07-18 11:36:51 - 
+
+Using generated security password: e583bb39-da20-406f-bd35-90ba408ed63e
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 11:36:51 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 11:36:52 - Initializing Spring TestDispatcherServlet ''
+2024-07-18 11:36:52 - Initializing Servlet ''
+2024-07-18 11:36:52 - Completed initialization in 3 ms
+2024-07-18 11:36:52 - Started SecurityConfigTest in 6.302 seconds (process running for 9.653)
+2024-07-18 11:48:02 - Starting SecurityConfigTest using Java 18.0.2.1 with PID 10600 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 11:48:02 - The following 1 profile is active: "no_security"
+2024-07-18 11:48:05 - 
+
+Using generated security password: 5543c63b-f2ec-46b8-9feb-31a24a842851
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 11:48:05 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 11:48:07 - Initializing Spring TestDispatcherServlet ''
+2024-07-18 11:48:07 - Initializing Servlet ''
+2024-07-18 11:48:07 - Completed initialization in 3 ms
+2024-07-18 11:48:07 - Started SecurityConfigTest in 6.348 seconds (process running for 9.494)
+2024-07-18 11:56:09 - Starting SecurityConfigTestes using Java 18.0.2.1 with PID 9520 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 11:56:09 - The following 1 profile is active: "no_security"
+2024-07-18 11:56:11 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-18 11:56:11 - Finished Spring Data repository scanning in 23 ms. Found 0 JPA repository interfaces.
+2024-07-18 11:56:12 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-18 11:56:12 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-18 11:56:12 - HHH000026: Second-level cache disabled
+2024-07-18 11:56:13 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-18 11:56:13 - HikariPool-1 - Starting...
+2024-07-18 11:56:13 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@304744a1
+2024-07-18 11:56:13 - HikariPool-1 - Start completed.
+2024-07-18 11:56:14 - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-18 11:56:15 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-18 11:56:15 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-18 11:56:15 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-18 11:56:15 - 
+
+Using generated security password: 9fcf59b4-a729-4e4c-9b80-d9178d9525c9
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 11:56:15 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 11:56:17 - Initializing Spring TestDispatcherServlet ''
+2024-07-18 11:56:17 - Initializing Servlet ''
+2024-07-18 11:56:17 - Completed initialization in 3 ms
+2024-07-18 11:56:17 - Started SecurityConfigTestes in 9.837 seconds (process running for 12.488)
+2024-07-18 11:56:20 - Error creating user: 404 Not Found: "Tunnel chow-choice-cicada.ngrok-free.app not found<EOL><EOL><EOL><EOL>ERR_NGROK_3200<EOL><EOL>"
+org.springframework.web.client.HttpClientErrorException$NotFound: 404 Not Found: "Tunnel chow-choice-cicada.ngrok-free.app not found<EOL><EOL><EOL><EOL>ERR_NGROK_3200<EOL><EOL>"
+	at org.springframework.web.client.HttpClientErrorException.create(HttpClientErrorException.java:112)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:183)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:137)
+	at org.springframework.web.client.ResponseErrorHandler.handleError(ResponseErrorHandler.java:63)
+	at org.springframework.web.client.RestTemplate.handleResponse(RestTemplate.java:942)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:891)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:790)
+	at org.springframework.web.client.RestTemplate.postForObject(RestTemplate.java:507)
+	at com.authentication_service.service.UserServiceClient.createUser(UserServiceClient.java:41)
+	at com.authentication_service.service.AuthenticationService.registerUser(AuthenticationService.java:113)
+	at com.authentication_service.controller.AuthenticationController.registerUser(AuthenticationController.java:18)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:926)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:831)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at org.springframework.test.web.servlet.TestDispatcherServlet.service(TestDispatcherServlet.java:72)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.springframework.mock.web.MockFilterChain$ServletFilterProxy.doFilter(MockFilterChain.java:165)
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132)
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:108)
+	at org.springframework.security.web.FilterChainProxy.lambda$doFilterInternal$3(FilterChainProxy.java:231)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:365)
+	at org.springframework.security.web.access.intercept.AuthorizationFilter.doFilter(AuthorizationFilter.java:100)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:126)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:120)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:100)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:179)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191)
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113)
+	at org.springframework.web.servlet.handler.HandlerMappingIntrospector.lambda$createCacheFilter$3(HandlerMappingIntrospector.java:195)
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113)
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74)
+	at org.springframework.security.config.annotation.web.configuration.WebMvcSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebMvcSecurityConfiguration.java:230)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:352)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:268)
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151)
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151)
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151)
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151)
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132)
+	at org.springframework.test.web.servlet.MockMvc.perform(MockMvc.java:201)
+	at com.authentication_service.SecurityConfigTestes.testRegisterEndpointPermitsAll(SecurityConfigTestes.java:35)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:728)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:156)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:147)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:86)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:103)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:93)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:92)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:86)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:218)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:214)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:139)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:69)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:63)
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:57)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:232)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55)
+2024-07-18 11:56:20 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-18 11:56:20 - HikariPool-1 - Shutdown initiated...
+2024-07-18 11:56:20 - HikariPool-1 - Shutdown completed.
+2024-07-18 12:04:05 - Starting SecurityConfigTestes using Java 18.0.2.1 with PID 7212 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 12:04:05 - The following 1 profile is active: "no_security"
+2024-07-18 12:04:07 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-18 12:04:07 - Finished Spring Data repository scanning in 27 ms. Found 0 JPA repository interfaces.
+2024-07-18 12:04:08 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-18 12:04:08 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-18 12:04:08 - HHH000026: Second-level cache disabled
+2024-07-18 12:04:09 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-18 12:04:09 - HikariPool-1 - Starting...
+2024-07-18 12:04:10 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@6814262d
+2024-07-18 12:04:10 - HikariPool-1 - Start completed.
+2024-07-18 12:04:10 - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-18 12:04:11 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-18 12:04:11 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-18 12:04:11 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-18 12:04:11 - 
+
+Using generated security password: aa1d00f6-8d83-4498-b926-e778cf740ca4
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 12:04:11 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 12:04:13 - Initializing Spring TestDispatcherServlet ''
+2024-07-18 12:04:13 - Initializing Servlet ''
+2024-07-18 12:04:13 - Completed initialization in 2 ms
+2024-07-18 12:04:13 - Started SecurityConfigTestes in 9.027 seconds (process running for 11.519)
+2024-07-18 12:04:14 - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: Required request body is missing: public com.authentication_service.dto.AuthenticateUserResponse com.authentication_service.controller.AuthenticationController.authenticateUser(com.authentication_service.dto.AuthenticateUserRequest)]
+2024-07-18 12:04:14 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-18 12:04:14 - HikariPool-1 - Shutdown initiated...
+2024-07-18 12:04:15 - HikariPool-1 - Shutdown completed.
+2024-07-18 12:06:14 - Starting SecurityConfigTestes using Java 18.0.2.1 with PID 6276 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 12:06:14 - The following 1 profile is active: "no_security"
+2024-07-18 12:06:16 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-18 12:06:16 - Finished Spring Data repository scanning in 39 ms. Found 0 JPA repository interfaces.
+2024-07-18 12:06:17 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-18 12:06:17 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-18 12:06:17 - HHH000026: Second-level cache disabled
+2024-07-18 12:06:18 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-18 12:06:18 - HikariPool-1 - Starting...
+2024-07-18 12:06:19 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@6814262d
+2024-07-18 12:06:19 - HikariPool-1 - Start completed.
+2024-07-18 12:06:19 - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-18 12:06:20 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-18 12:06:20 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-18 12:06:20 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-18 12:06:20 - 
+
+Using generated security password: 48bc98bc-6531-49f4-a49a-30c817bd8991
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 12:06:20 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 12:06:22 - Initializing Spring TestDispatcherServlet ''
+2024-07-18 12:06:22 - Initializing Servlet ''
+2024-07-18 12:06:22 - Completed initialization in 2 ms
+2024-07-18 12:06:22 - Started SecurityConfigTestes in 8.921 seconds (process running for 11.617)
+2024-07-18 12:06:23 - User not found with email: testuser
+2024-07-18 12:06:23 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-18 12:06:23 - HikariPool-1 - Shutdown initiated...
+2024-07-18 12:06:24 - HikariPool-1 - Shutdown completed.
+2024-07-18 12:11:36 - Starting SecurityConfigTestes using Java 18.0.2.1 with PID 932 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 12:11:36 - The following 1 profile is active: "no_security"
+2024-07-18 12:11:38 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-18 12:11:38 - Finished Spring Data repository scanning in 36 ms. Found 0 JPA repository interfaces.
+2024-07-18 12:11:39 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-18 12:11:39 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-18 12:11:39 - HHH000026: Second-level cache disabled
+2024-07-18 12:11:40 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-18 12:11:40 - HikariPool-1 - Starting...
+2024-07-18 12:11:41 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@75a9cc24
+2024-07-18 12:11:41 - HikariPool-1 - Start completed.
+2024-07-18 12:11:41 - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-18 12:11:42 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-18 12:11:42 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-18 12:11:42 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-18 12:11:42 - 
+
+Using generated security password: 65659b43-fb77-4113-9697-00c8e16bcc81
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 12:11:42 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 12:11:44 - Initializing Spring TestDispatcherServlet ''
+2024-07-18 12:11:44 - Initializing Servlet ''
+2024-07-18 12:11:44 - Completed initialization in 3 ms
+2024-07-18 12:11:44 - Started SecurityConfigTestes in 8.977 seconds (process running for 11.627)
+2024-07-18 12:11:46 - User not found with email: vovac7995@gmail.com
+2024-07-18 12:11:46 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-18 12:11:46 - HikariPool-1 - Shutdown initiated...
+2024-07-18 12:11:46 - HikariPool-1 - Shutdown completed.
+2024-07-18 12:13:57 - Starting SecurityConfigTestes using Java 18.0.2.1 with PID 3564 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 12:13:57 - The following 1 profile is active: "no_security"
+2024-07-18 12:13:59 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-18 12:13:59 - Finished Spring Data repository scanning in 22 ms. Found 0 JPA repository interfaces.
+2024-07-18 12:14:00 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-18 12:14:00 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-18 12:14:00 - HHH000026: Second-level cache disabled
+2024-07-18 12:14:01 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-18 12:14:01 - HikariPool-1 - Starting...
+2024-07-18 12:14:02 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@6814262d
+2024-07-18 12:14:02 - HikariPool-1 - Start completed.
+2024-07-18 12:14:02 - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-18 12:14:02 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-18 12:14:02 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-18 12:14:03 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-18 12:14:03 - 
+
+Using generated security password: 0fcf1702-183c-4248-abd7-b23f37424e98
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 12:14:03 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 12:14:05 - Initializing Spring TestDispatcherServlet ''
+2024-07-18 12:14:05 - Initializing Servlet ''
+2024-07-18 12:14:05 - Completed initialization in 2 ms
+2024-07-18 12:14:05 - Started SecurityConfigTestes in 8.834 seconds (process running for 11.366)
+2024-07-18 12:14:07 - Encoded password does not look like BCrypt
+2024-07-18 12:14:07 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-18 12:14:07 - HikariPool-1 - Shutdown initiated...
+2024-07-18 12:14:07 - HikariPool-1 - Shutdown completed.
+2024-07-18 12:16:13 - Starting SecurityConfigTestes using Java 18.0.2.1 with PID 11148 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 12:16:13 - The following 1 profile is active: "no_security"
+2024-07-18 12:16:15 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-18 12:16:15 - Finished Spring Data repository scanning in 20 ms. Found 0 JPA repository interfaces.
+2024-07-18 12:16:16 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-18 12:16:16 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-18 12:16:16 - HHH000026: Second-level cache disabled
+2024-07-18 12:16:17 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-18 12:16:17 - HikariPool-1 - Starting...
+2024-07-18 12:16:18 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@304744a1
+2024-07-18 12:16:18 - HikariPool-1 - Start completed.
+2024-07-18 12:16:18 - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-18 12:16:19 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-18 12:16:19 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-18 12:16:19 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-18 12:16:20 - 
+
+Using generated security password: 0ede6ff2-3613-4239-944e-ebe04eed2d23
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 12:16:20 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 12:16:21 - Initializing Spring TestDispatcherServlet ''
+2024-07-18 12:16:21 - Initializing Servlet ''
+2024-07-18 12:16:21 - Completed initialization in 3 ms
+2024-07-18 12:16:21 - Started SecurityConfigTestes in 8.895 seconds (process running for 11.381)
+2024-07-18 12:16:23 - Empty encoded password
+2024-07-18 12:16:23 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-18 12:16:23 - HikariPool-1 - Shutdown initiated...
+2024-07-18 12:16:23 - HikariPool-1 - Shutdown completed.
+2024-07-18 12:17:21 - Starting SecurityConfigTestes using Java 18.0.2.1 with PID 14308 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 12:17:21 - The following 1 profile is active: "no_security"
+2024-07-18 12:17:23 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-18 12:17:23 - Finished Spring Data repository scanning in 24 ms. Found 0 JPA repository interfaces.
+2024-07-18 12:17:24 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-18 12:17:24 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-18 12:17:24 - HHH000026: Second-level cache disabled
+2024-07-18 12:17:25 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-18 12:17:25 - HikariPool-1 - Starting...
+2024-07-18 12:17:25 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@304744a1
+2024-07-18 12:17:25 - HikariPool-1 - Start completed.
+2024-07-18 12:17:25 - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-18 12:17:26 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-18 12:17:26 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-18 12:17:27 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-18 12:17:27 - 
+
+Using generated security password: 4322855e-53b2-48ff-a665-3aca35d8aafc
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 12:17:27 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 12:17:28 - Initializing Spring TestDispatcherServlet ''
+2024-07-18 12:17:28 - Initializing Servlet ''
+2024-07-18 12:17:28 - Completed initialization in 2 ms
+2024-07-18 12:17:28 - Started SecurityConfigTestes in 8.402 seconds (process running for 11.202)
+2024-07-18 12:17:30 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-18 12:17:30 - HikariPool-1 - Shutdown initiated...
+2024-07-18 12:17:30 - HikariPool-1 - Shutdown completed.
+2024-07-18 12:19:03 - Starting SecurityConfigTestes using Java 18.0.2.1 with PID 12704 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 12:19:03 - The following 1 profile is active: "no_security"
+2024-07-18 12:19:06 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-18 12:19:06 - Finished Spring Data repository scanning in 67 ms. Found 0 JPA repository interfaces.
+2024-07-18 12:19:07 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-18 12:19:07 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-18 12:19:08 - HHH000026: Second-level cache disabled
+2024-07-18 12:19:08 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-18 12:19:08 - HikariPool-1 - Starting...
+2024-07-18 12:19:09 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@4cd8662c
+2024-07-18 12:19:09 - HikariPool-1 - Start completed.
+2024-07-18 12:19:09 - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-18 12:19:11 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-18 12:19:11 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-18 12:19:11 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-18 12:19:11 - 
+
+Using generated security password: 48ac6648-c2fd-4189-bc0b-65abb6819474
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 12:19:11 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 12:19:14 - Initializing Spring TestDispatcherServlet ''
+2024-07-18 12:19:14 - Initializing Servlet ''
+2024-07-18 12:19:14 - Completed initialization in 4 ms
+2024-07-18 12:19:14 - Started SecurityConfigTestes in 12.521 seconds (process running for 23.283)
+2024-07-18 12:19:15 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-18 12:19:15 - HikariPool-1 - Shutdown initiated...
+2024-07-18 12:19:15 - HikariPool-1 - Shutdown completed.
+2024-07-18 15:14:14 - Starting SecurityConfigTestes using Java 18.0.2.1 with PID 7428 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 15:14:14 - The following 1 profile is active: "no_security"
+2024-07-18 15:14:18 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-18 15:14:18 - Finished Spring Data repository scanning in 78 ms. Found 0 JPA repository interfaces.
+2024-07-18 15:14:19 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-18 15:14:20 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-18 15:14:20 - HHH000026: Second-level cache disabled
+2024-07-18 15:14:21 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-18 15:14:21 - HikariPool-1 - Starting...
+2024-07-18 15:14:22 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@303e0efc
+2024-07-18 15:14:22 - HikariPool-1 - Start completed.
+2024-07-18 15:14:22 - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-18 15:14:25 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-18 15:14:25 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-18 15:14:26 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-18 15:14:26 - 
+
+Using generated security password: 9be9e75c-a1cb-4279-9a00-d5a399eac673
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 15:14:26 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 15:14:29 - Initializing Spring TestDispatcherServlet ''
+2024-07-18 15:14:29 - Initializing Servlet ''
+2024-07-18 15:14:29 - Completed initialization in 2 ms
+2024-07-18 15:14:29 - Started SecurityConfigTestes in 16.538 seconds (process running for 29.412)
+2024-07-18 15:14:29 - Empty encoded password
+2024-07-18 15:14:30 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-18 15:14:30 - HikariPool-1 - Shutdown initiated...
+2024-07-18 15:14:30 - HikariPool-1 - Shutdown completed.
+2024-07-18 15:50:27 - Starting SecurityConfigTestes using Java 18.0.2.1 with PID 2008 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 15:50:27 - The following 1 profile is active: "no_security"
+2024-07-18 15:50:30 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-18 15:50:30 - Finished Spring Data repository scanning in 43 ms. Found 0 JPA repository interfaces.
+2024-07-18 15:50:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-18 15:50:32 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-18 15:50:32 - HHH000026: Second-level cache disabled
+2024-07-18 15:50:32 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-18 15:50:32 - HikariPool-1 - Starting...
+2024-07-18 15:50:33 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5bab5abb
+2024-07-18 15:50:33 - HikariPool-1 - Start completed.
+2024-07-18 15:50:33 - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-18 15:50:35 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-18 15:50:35 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-18 15:50:36 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-18 15:50:36 - 
+
+Using generated security password: e325699b-505f-4d34-8abc-b765becd0f5e
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 15:50:36 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 15:50:38 - Initializing Spring TestDispatcherServlet ''
+2024-07-18 15:50:38 - Initializing Servlet ''
+2024-07-18 15:50:38 - Completed initialization in 3 ms
+2024-07-18 15:50:38 - Started SecurityConfigTestes in 13.202 seconds (process running for 39.976)
+2024-07-18 15:50:39 - Empty encoded password
+2024-07-18 15:50:39 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-18 15:50:39 - HikariPool-1 - Shutdown initiated...
+2024-07-18 15:50:39 - HikariPool-1 - Shutdown completed.
+2024-07-18 15:57:05 - Starting EmployeesTest using Java 18.0.2.1 with PID 13528 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 15:57:05 - The following 1 profile is active: "no_security"
+2024-07-18 15:57:08 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-18 15:57:08 - Finished Spring Data repository scanning in 21 ms. Found 0 JPA repository interfaces.
+2024-07-18 15:57:09 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-18 15:57:09 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-18 15:57:09 - HHH000026: Second-level cache disabled
+2024-07-18 15:57:10 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-18 15:57:10 - HikariPool-1 - Starting...
+2024-07-18 15:57:11 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@f1d1463
+2024-07-18 15:57:11 - HikariPool-1 - Start completed.
+2024-07-18 15:57:11 - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-18 15:57:12 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-18 15:57:12 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-18 15:57:12 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-18 15:57:13 - 
+
+Using generated security password: ba3e42fe-2b44-477a-9967-41c375734672
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 15:57:13 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 15:57:14 - Started EmployeesTest in 9.947 seconds (process running for 12.514)
+2024-07-18 15:57:16 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-18 15:57:16 - HikariPool-1 - Shutdown initiated...
+2024-07-18 15:57:16 - HikariPool-1 - Shutdown completed.
+2024-07-18 15:58:01 - Starting SecurityConfigTestes using Java 18.0.2.1 with PID 14308 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 15:58:01 - The following 1 profile is active: "no_security"
+2024-07-18 15:58:04 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-18 15:58:04 - Finished Spring Data repository scanning in 55 ms. Found 0 JPA repository interfaces.
+2024-07-18 15:58:06 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-18 15:58:06 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-18 15:58:06 - HHH000026: Second-level cache disabled
+2024-07-18 15:58:06 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-18 15:58:07 - HikariPool-1 - Starting...
+2024-07-18 15:58:07 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@6f5a132f
+2024-07-18 15:58:07 - HikariPool-1 - Start completed.
+2024-07-18 15:58:07 - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-18 15:58:09 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-18 15:58:09 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-18 15:58:09 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-18 15:58:09 - 
+
+Using generated security password: b62c5087-4e13-4a77-89e6-81d4aca9223e
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 15:58:10 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 15:58:12 - Initializing Spring TestDispatcherServlet ''
+2024-07-18 15:58:12 - Initializing Servlet ''
+2024-07-18 15:58:12 - Completed initialization in 2 ms
+2024-07-18 15:58:12 - Started SecurityConfigTestes in 12.917 seconds (process running for 27.869)
+2024-07-18 15:58:13 - Empty encoded password
+2024-07-18 15:58:13 - Could not detect default configuration classes for test class [com.authentication_service.DtoTest.EmployeesTest]: EmployeesTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-07-18 15:58:13 - Found @SpringBootConfiguration com.authentication_service.AuthenticationServiceApplication for test class com.authentication_service.DtoTest.EmployeesTest
+2024-07-18 15:58:13 - Restart disabled due to context in which it is running
+2024-07-18 15:58:13 - Starting EmployeesTest using Java 18.0.2.1 with PID 14308 (started by v.chumak in C:\Users\v.chumak\Desktop\Employee_prog\Authentication_Service)
+2024-07-18 15:58:13 - The following 1 profile is active: "no_security"
+2024-07-18 15:58:15 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-18 15:58:15 - Finished Spring Data repository scanning in 74 ms. Found 0 JPA repository interfaces.
+2024-07-18 15:58:16 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-18 15:58:16 - HHH000026: Second-level cache disabled
+2024-07-18 15:58:16 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-18 15:58:16 - HikariPool-2 - Starting...
+2024-07-18 15:58:16 - HikariPool-2 - Added connection org.postgresql.jdbc.PgConnection@b73fc7b
+2024-07-18 15:58:16 - HikariPool-2 - Start completed.
+2024-07-18 15:58:16 - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-18 15:58:16 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-18 15:58:16 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-18 15:58:16 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-18 15:58:16 - 
+
+Using generated security password: 7491ac57-072b-4d59-91da-38ab46455725
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-07-18 15:58:16 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-07-18 15:58:17 - Started EmployeesTest in 4.372 seconds (process running for 33.431)
+2024-07-18 15:58:18 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-18 15:58:18 - HikariPool-1 - Shutdown initiated...
+2024-07-18 15:58:18 - HikariPool-1 - Shutdown completed.
+2024-07-18 15:58:18 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-18 15:58:18 - HikariPool-2 - Shutdown initiated...
+2024-07-18 15:58:18 - HikariPool-2 - Shutdown completed.
